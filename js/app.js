@@ -1,0 +1,10 @@
+let address = prompt("Manzilingizni kiriting?");
+console.log("Foydalanuvchining manzili:", address);
+let UserName = prompt("Ismingizni kiriting?");
+console.log("Foydalanuvchining ismi:", UserName);
+let firstName = prompt("Familyangizni kiriting?");
+console.log("Foydalanuvchining familyasi:", firstName);
+let age = prompt("Yoshingizni kiriting?");
+console.log("Foydalanuvchining yoshi:", age, "yosh");
+let gender = prompt("Jinsingizni kiriting?");
+console.log("Foydalanuvchining jinsi:", gender);
